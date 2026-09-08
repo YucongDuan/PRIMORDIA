@@ -1,5 +1,7 @@
 # PRIMORDIA
 
+Created by Yucong Duan (段玉聪).
+
 PRIMORDIA is a research-grade candidate engine for eleven foundational physics questions. It separates hypotheses, local witnesses, scoped research permits, revocable prediction warrants, challenges, and repair lineages. It runs deterministic toy experiments and never upgrades a synthetic result into an empirical discovery.
 
 ## Quick start
